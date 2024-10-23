@@ -1,0 +1,27 @@
+body,
+h1 {
+    font-family: "Raleway", sans-serif;
+}
+
+.bgimg {
+    background-image: url('https://www.w3schools.com/w3images/forestbridge.jpg');
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.w3-bar {
+    padding: 10px;
+}
+
+.content {
+    padding: 64px;
+}
+
+textarea {
+    width: 100%;
+    padding: 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
